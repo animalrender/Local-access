@@ -1,0 +1,9 @@
+# local agent state / scratch
+.agent/
+*.tmp
+state.json
+state.json.lock
+worker.log
+*.stdout.txt
+*.stderr.txt
+__pycache__/

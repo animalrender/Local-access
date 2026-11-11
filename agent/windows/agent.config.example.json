@@ -1,0 +1,17 @@
+{
+  "allowedRoots": [
+    "C:\\Users\\YOUR-NAME",
+    "D:\\work"
+  ],
+  "allowExec": true,
+  "allowRead": true,
+  "allowWrite": true,
+  "allowHash": true,
+  "maxReadBytes": 4194304,
+  "maxWriteBytes": 33554432,
+  "maxOutputBytes": 1048576,
+  "defaultTimeoutSec": 120,
+  "maxTimeoutSec": 900,
+  "maxListEntries": 400,
+  "progressEverySec": 20
+}
